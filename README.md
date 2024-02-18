@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Im commiting on git hub
 now i gotta test pull
 just directly using pull origin
+yo , time to get pushed
+comeon , push harder
